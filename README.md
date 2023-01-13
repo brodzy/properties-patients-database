@@ -8,6 +8,6 @@ Calcuates stats of properties and allows list of homes for sale to be sorted by 
 
 ## Patients:
 
-The user can add, delete, and update a patient by supplying the fields shown and the display showing all patients is automatically updated. (Patients 1) <br>
-Displays all visit dates, the corresponding patient last name, and the charges for the visit. (Patients 2)<br>
+Patients are stored in a database and can be added, deleted, and updated via GUI and all patients are automatically updated. (Patients 1) <br>
+Displays all visit dates, corresponding patient last names, and charges for the visit. (Patients 2)<br>
 Displays the date, charge, and visit id for all the patient’s visits, sorted by date. (Patients 3) <br>
