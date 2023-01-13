@@ -17,6 +17,6 @@ Displays all visit dates, corresponding patient last names, and charges for the 
 Displays the date, charge, and visit id for all the patient’s visits, sorted by date. (Patients 3) <br>
 <br>
 <br>
-![](Images/patients1.JPG)
-![](Images/patients2.JPG)
-![](Images/patients3.JPG)
+![](Images/patients_1.JPG)
+![](Images/patients_2.JPG)
+![](Images/patients_3.JPG)
